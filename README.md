@@ -3,3 +3,4 @@
 - [ ]   remote repo
 - [ ]  flict reslove
 - [ ]  re/local merge
+- [ ]  wan jia 
