@@ -1,6 +1,13 @@
 # noticegit
 - [x]  local repo set up
-- [ ]   remote repo
+- [x]   remote repo
 - [ ]  flict reslove
 - [ ]  re/local merge
-- [ ]  wan jia 
+- [ ]  Hadoop
+- [x]  mysql
+- [ ]  hive
+- [ ]  java
+- [ ]  react
+- [x]  html
+- [x]  css
+- [ ]  javascript
