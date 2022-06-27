@@ -3,7 +3,7 @@
 - [x]   remote repo
 - [ ]  flict reslove
 - [ ]  re/local merge
-- [ ]  Hadoop
+- [x]  Hadoop
 - [x]  mysql
 - [ ]  hive
 - [ ]  java
@@ -11,3 +11,5 @@
 - [x]  html
 - [x]  css
 - [ ]  javascript
+- [ ]  not different
+- [ ]  
